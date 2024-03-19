@@ -1,0 +1,3 @@
+Class Facebook
+prebacivanje svih try catch blokova u jedan
+razdvajanje citanja matrice i citanja profila u dvije odvojene metode koje se zajedno pozivaju u Facebook metodi
